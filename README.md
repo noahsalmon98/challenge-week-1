@@ -21,3 +21,9 @@ THEN I find a concise, descriptive title
 ## URL
 
 https://noahsalmon98.github.io/challenge-week-1/
+
+## Screenshots
+
+images.githubusercontent.com/129013169/231303070-3ffe2d3f-c6f9-4e4e-8640-13cf8d598e8b.png
+images.githubusercontent.com/129013169/231303082-ff7a5a3a-0068-4804-acd6-b25adbe61277.png
+images.githubusercontent.com/129013169/231303092-6d9f226d-2d60-48ab-a824-99912f6e1f7b.png
